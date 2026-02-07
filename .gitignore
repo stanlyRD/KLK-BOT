@@ -1,0 +1,20 @@
+# Dependencias
+node_modules/
+
+# Archivos de sesión de WhatsApp
+.wwebjs_auth/
+.wwebjs_cache/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
