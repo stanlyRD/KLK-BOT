@@ -4,8 +4,8 @@
   "description": "Bot de WhatsApp para negocio de empanadas y hamburguesas - Versión Cloud",
   "main": "bot-whatsapp-cloud.js",
   "scripts": {
-    "start": "node bot-whatsapp-cloud.js",
-    "dev": "node bot-whatsapp-cloud.js"
+    "start": "node bot-whatsapp.js",
+    "dev": "node bot-whatsapp.js"
   },
   "keywords": [
     "whatsapp",
